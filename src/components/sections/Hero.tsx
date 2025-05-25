@@ -70,7 +70,7 @@ export default function Hero() {
             <span className="text-primary">Hi, I'm Dimas</span>
             <br />
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-primary to-green-300">
-              Vibe Coder Enthusiast
+              Vibe Coder Enthusiast & Yapping Engineer
             </span>
           </h1>
           <p
